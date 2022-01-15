@@ -3,6 +3,7 @@ module github.com/bhojpur/net
 go 1.17
 
 require (
+	github.com/gorilla/websocket v1.4.2
 	github.com/lib/pq v1.10.4
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/cobra v1.3.0
